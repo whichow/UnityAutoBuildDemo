@@ -1,0 +1,10 @@
+Library
+iOSBuild
+obj
+Temp
+*_Data
+.svn
+*.sln
+*.exe
+*.apk
+*.csproj
